@@ -1,8 +1,8 @@
 # Damilola Yusuf Atobiloye — Cybersecurity Portfolio
 
 **Title:** Practical Cybersecurity Engineer | Ethical Hacking & Network Security  
-**Location:** Lagos, Nigeria (replace if different)  
-**Contact:** your.email@example.com · LinkedIn: https://www.linkedin.com/in/yourprofile · GitHub: https://github.com/King-Dammy
+**Location:** Kaduna, Nigeria  
+**Contact:** Damilola15yusuf@gmail.com · LinkedIn: https://www.linkedin.com/in/yourprofile · GitHub: https://github.com/King-Dammy
 
 ---
 
@@ -34,5 +34,5 @@ I am a hands-on cybersecurity trainee with practical lab experience in network r
 ---
 
 ## License
-This work is mine — feel free to reuse educational snippets. (Add a LICENSE file if you want to allow reuse, e.g., MIT.)
+This work is mine — feel free to reuse educational snippets.
 
