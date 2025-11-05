@@ -4,7 +4,7 @@ Cybersecurity Engineer in training — hands-on labs in network reconnaissance, 
 ## Quick links
 - Portfolio repo: https://github.com/King-Dammy/cyber-portfolio
 - Labs: see the `lab-reports` folder for detailed writeups and command outputs.
-- Contact: your.email@example.com
+- Contact: damilola15yusuf@gmail.com
 
 ## Current focus
 Learning advanced pentesting workflows, building reproducible labs, and preparing for Security+ / CEH.
